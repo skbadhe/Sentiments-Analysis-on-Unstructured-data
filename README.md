@@ -20,7 +20,7 @@ This repository contains a Sentiment Analysis project implemented in Python usin
 
  1. **Clone the Repository:** Start by cloning this repository to your local machine using the following command:
 
-git clone https://github.com/skbadhe/Sentiments-Analysis-on-Unstructured-data.git
+	git clone https://github.com/skbadhe/Sentiments-Analysis-on-Unstructured-data.git
 
 
 2. **Install Dependencies:** Install the required libraries.
